@@ -1,4 +1,3 @@
 # ITAssetRegister
 IT Asset Register and IT Support Ticketing System
-I am kevin Atunda Nyakundi ,Aged 34 years old.I wish to gift myself a full stack developer for my 35 Birthday.
-HTML/CSS/Javascript/Node Js./Bootstrap/Laravel.Angular,React Native
+An IT asset register contains a list of IT assets, such as computers, software, and servers. The purpose of an IT asset register is to help manage and track these assets, including their value, maintenance requirements, and software licenses
